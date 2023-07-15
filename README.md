@@ -1,5 +1,3 @@
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -30,9 +28,6 @@
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 There are many approaches to manage authentication on web apps. However, the purpose of this is to implement a 'Basic Authentication' based on MERN (Mongo, Express, React, Node).
@@ -51,9 +46,7 @@ This contains some good practices like:
   * Analyze and improve bundles and chunks
   * Applying optimization
 * Using configuration files to manage environment variables 
-
-
-
+* Use Context API and Custom Hook to manage authentication state
 
 ### Built With
 
@@ -87,7 +80,6 @@ Have installed:
   * Have configured your own MongoDb and change the connection string on:
     * Backend -> .env
 
-<!-- links & images -->
 [React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [React-Router]: https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=reactrouter&logoColor=#CA4245
